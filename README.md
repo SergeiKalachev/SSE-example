@@ -1,3 +1,6 @@
+### About
+This is the simple app bootstrapped with Razzle to showcase Server Sent Events
+
 ![App](docs/app.png "App")
 
 
