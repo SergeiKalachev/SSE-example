@@ -24,3 +24,7 @@ curl --location --request POST 'http://localhost:3000/events/messages' \
 --header 'Content-Type: application/json' \
 --data-raw '["Hello world", "How are you?"]'
 ```
+
+### Resources
+
+https://developer.mozilla.org/en-US/docs/Web/API/Server-sent_events/Using_server-sent_events
